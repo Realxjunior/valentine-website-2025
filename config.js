@@ -42,15 +42,15 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "WOOOOW You love me that much?? 🥰🚀💝",  // Shows when they go past 5000%
-        high: "To infinity and beyond! 🚀💝",              // Shows when they go past 1000%
-        normal: "And beyond! 🥰"                           // Shows when they go past 100%
+        extreme: "WOOOOOOOOAAAAHHHHHHHHH You love me that much??😳🤭🚀💝",  // Shows when they go past 5000%
+        high: "To the moon and Back!🚀💝",              // Shows when they go past 1000%
+        normal: "Through the ceiling!🥰"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓",
-        message: "Now come get your gift, a big warm hug and a huge kiss!",
+        title: "Oh it feels Great to be the luckiest guy in the world!🎉💝💖💝💓",
+        message: "Now come get your gift,Me and more kisses then countable💝💓💗(No refunds)",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
